@@ -1,4 +1,3 @@
 # faststone-screen-record
-name: Free Software
-<hr>
-Serial: BXRQE-RMMXB-QRFSZ-CVVOX
+<p>name: Free Software</p>
+<p>Serial: BXRQE-RMMXB-QRFSZ-CVVOX</p>
