@@ -1,0 +1,1 @@
+# faststone-screen-record
